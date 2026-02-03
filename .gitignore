@@ -1,6 +1,9 @@
 #BomCurso
 #Criado exclusivamnete para este repositorio
 data/arquivosBrutos
+*.xlsx
+*.csv
+*.nc4
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
