@@ -1,3 +1,4 @@
+figuras/
 #BomCurso
 #Criado exclusivamnete para este repositorio
 data/arquivosBrutos
@@ -144,7 +145,6 @@ celerybeat.pid
 # Environments
 .env
 .envrc
-.venv
 env/
 venv/
 ENV/
